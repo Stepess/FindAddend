@@ -1,6 +1,8 @@
 package algorithmTasks;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * Given an array of integers, return all pairs of two numbers such that they add up to a specific target.
